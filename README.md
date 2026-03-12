@@ -9,7 +9,6 @@
 
 > [!TIP]
 > 建议在安装依赖前先更新你的包管理器，这样可以避免一些已知的版本冲突问题。
-> ![](https://pic4.zhimg.com/v2-651d25a2a36f7ee0406f2a310b245def_r.jpg)
 > 这个不错
 
 > [!IMPORTANT]
@@ -20,3 +19,6 @@
 
 > [!CAUTION]
 > 运行 `npm run reset` 指令会永久删除数据库中的所有数据且无法撤销，请在执行前确认已做好备份。
+
+
+<![PIC01.png](https://picx.zhimg.com/v2-45dd5f524da0d125233d6af4fb2d4135_r.jpg),![PIC02.png](https://pic1.zhimg.com/v2-d591ac49a57ca87cb3c7b29d6e1a7622_r.jpg),![PIC03.png](https://picx.zhimg.com/v2-b712755e8f4e02226582bbfb6246dcd3_r.jpg)>
